@@ -15,6 +15,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  transition: 0.5s background-color cubic-bezier(0.39, 0.575, 0.565, 1);
 }
 
 .container .color {
